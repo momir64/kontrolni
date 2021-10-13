@@ -17,8 +17,8 @@ SET *kolona* = *vrednost*
 WHERE *uslov*  
 
 ## INSERT
-INSERT INTO *Tabela*(*parametri* ...)  
-VALUES(*param1*, *param2*, *param3* ...)  
+INSERT INTO *Tabela*(*kolona1*, *kolona2*, *kolona3* ...)  
+VALUES(*parametar1*, *parametar2*, *parametar3* ...)  
 
 ## DELETE
 DELETE FROM *Tabela*  
